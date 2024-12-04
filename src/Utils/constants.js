@@ -1,0 +1,16 @@
+export const defaultTheme = {
+  primaryColor: "#ffffff",
+  secondaryColor: "#0DA982",
+  iconFillColor: "#0DA982",
+  sidebarInnerHEadingColor: "gray;",
+  sidebarInnnerDivBg: "#ffff",
+  tableRowBg: "whitesmoke",
+  tableRowColor: "#000",
+  activeButtonBg: "#1fc91ffa",
+  landingOutletBg: "#F8F8F8",
+  inputBg: "#fff",
+  inputColor: "#000",
+  fontFamily: "Poppins",
+  sidebarheadingcolor: "rgba(0, 0, 0, 0.6)",
+  sidebarclickheadingcolor: "#fff",
+};
